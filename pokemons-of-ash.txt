@@ -8,8 +8,16 @@
 8.Dragonite Soared As A Part Of Ash's Team
 9. Buizel Fought Maylene's Lucario To A Draw
 10.Bulbasaur Was One Of Ash's First Pokémon
+<<<<<<< HEAD
 11.Rowlet Thrived On Being Underestimated
 12.Glalie Became One Of Ash's Best Pokémon After Evolving From Snorunt
 13.Melmetal Was An Exciting Late Addition To Ash's Alolan Team
 14.Snorlax's Surprising Abilities & Bond With Ash Helped It Become Strong
 15.Infernape Grew Under Ash's Guidance
+=======
+11.Bayleef Turned Into Affection For Ash Into Intense Ferocity In The Heat Of Battle
+12.Gigantamaxed Gengar Was A Force To Be Reckoned With
+13.Swellow Was A Gutsy Addition To Ash's Team
+14.Krookodile Was Ash's Most Impressive Pokémon In The Vertress Conference
+15.Pignite Was A Rare Bright Spark In The Unova League Defeat To Cameron
+>>>>>>> 923b81ca9f88caa65644ecd9a20eb2fb01f2730b
